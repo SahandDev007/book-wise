@@ -1,5 +1,5 @@
 # Book Wise
-![book-wise](https://github.com/maricastroc/book-wise/assets/121824373/57a7d61b-dd04-4727-9e77-e5e7197d276c)
+![book-wise](https://github.com/SahandDev007/book-wise/assets/121824373/57a7d61b-dd04-4727-9e77-e5e7197d276c)
 
 
 ## 📚 Project Description
@@ -45,19 +45,13 @@ I leveraged Next.js's server-side rendering feature, using `getServerSideProps`,
 > Clone the repository:
 
 ```bash
-git clone https://github.com/maricastroc/book-wise
+git clone https://github.com/SahandDev007/book-wise
 ```
 
 > Install the dependencies:
 
 ```bash
 npm install
-```
-
-> Switch to the commit that contains the local SQLite server:
-
-```bash
-git checkout f7b5aa42e70e25077697366192171bcec89dc3ab
 ```
 
 > Rename the .env.example file to .env and add the necessary information to it.
